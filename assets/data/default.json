@@ -1,0 +1,154 @@
+{
+  "about": {
+    "title": "ABOUT",
+    "path": "/about",
+    "meta": {
+      "cover": "/assets/image/static/default-cover.jpeg",
+      "title": "About",
+      "description": "Esther's work style is mysterious and surreal. She is used to presenting in a jumping and obscure way as well as combined with delicate brush strokes in order to convey warmth and connect with viewers."
+    },
+    "data": {
+      "contentList": [
+        {
+          "type": "title",
+          "text": "title text"
+        },
+        {
+          "type": "subtitle",
+          "text": "subtitle text"
+        },
+        {
+          "type": "content",
+          "text": "The port is on the country’s north coast, in Taipei City’s Bali District, just west of the mouth of the Tamsui River. The area has been mentioned by media reports as one of the points in Taiwan most likely to face a Chinese invasion."
+        },
+        {
+          "type": "list",
+          "textList": [
+            "The port is on the country’s north coast",
+            "in Taipei City’s Bali District,",
+            "just west of the mouth of the Tamsui River. ",
+            "The area has been mentioned by media reports as one of the points in Taiwan most likely to face a Chinese invasion.",
+            "list item"
+          ]
+        },
+        {
+          "type": "image",
+          "imageDataList": [
+            {
+              "url": "/assets/image/static/demo/demo-image.png",
+              "title": "title text",
+              "subtitle": "subtitle text",
+              "text": "The port is on the country’s north coast"
+            },
+            {
+              "url": "/assets/image/static/demo/demo-image.png",
+              "title": "title text",
+              "subtitle": "subtitle text",
+              "text": "The port is on the country’s north coast"
+            },
+            {
+              "url": "/assets/image/static/demo/demo-image.png",
+              "title": "title text",
+              "subtitle": "subtitle text",
+              "text": "The port is on the country’s north coast"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "imageDataList": [
+            {
+              "url": "/assets/image/static/demo/demo-image.png"
+            }
+          ]
+        }
+      ],
+      "faceUrl": "/assets/image/static/face.jpg",
+      "signUrl": "/assets/image/static/sign.svg",
+      "email": "yishanxiaooo@gmail.com",
+      "linkList": [
+        {
+          "url": "https://www.behance.net/yishanxiao",
+          "iconUrl": "/assets/image/static/social-behance.svg",
+          "title": "behance"
+        },
+        {
+          "url": "https://www.instagram.com/yishanxiaooo",
+          "iconUrl": "/assets/image/static/social-instagram.svg",
+          "title": "instagram"
+        },
+        {
+          "url": "https://estherxiaooo.tumblr.com",
+          "iconUrl": "/assets/image/static/social-tumblr.svg",
+          "title": "tumblr"
+        },
+        {
+          "url": "https://www.facebook.com/estherxiaooo",
+          "iconUrl": "/assets/image/static/social-facebook.svg",
+          "title": "facebook"
+        }
+      ]
+    }
+  },
+  "illustration": {
+    "title": "ILLUSTRATION",
+    "path": "/illustration",
+    "meta": {
+      "cover": "/assets/image/static/default-cover.jpeg",
+      "title": "Illustration",
+      "description": "Esther's work style is mysterious and surreal. She is used to presenting in a jumping and obscure way as well as combined with delicate brush strokes in order to convey warmth and connect with viewers."
+    },
+    "data": {
+      "workList": []
+    }
+  },
+  "sketch": {
+    "title": "SKETCH",
+    "path": "/sketch",
+    "meta": {
+      "cover": "/assets/image/static/default-cover.jpeg",
+      "title": "Sketch",
+      "description": "Esther's work style is mysterious and surreal. She is used to presenting in a jumping and obscure way as well as combined with delicate brush strokes in order to convey warmth and connect with viewers."
+    },
+    "data": {
+      "contentList": []
+    }
+  },
+  "picturebook": {
+    "title": "PICTURE BOOK",
+    "path": "/picturebook",
+    "meta": {
+      "cover": "/assets/image/static/default-cover.jpeg",
+      "title": "Picture Book",
+      "description": "Esther's work style is mysterious and surreal. She is used to presenting in a jumping and obscure way as well as combined with delicate brush strokes in order to convey warmth and connect with viewers."
+    },
+    "data": {
+      "workList": []
+    }
+  },
+  "animation": {
+    "title": "ANIMATION",
+    "path": "/animation",
+    "meta": {
+      "cover": "/assets/image/static/default-cover.jpeg",
+      "title": "Animation",
+      "description": "Esther's work style is mysterious and surreal. She is used to presenting in a jumping and obscure way as well as combined with delicate brush strokes in order to convey warmth and connect with viewers."
+    }
+  },
+  "ceramics": {
+    "title": "CERAMICS",
+    "path": "/ceramics",
+    "meta": {
+      "cover": "/assets/image/static/default-cover.jpeg",
+      "title": "Ceramics",
+      "description": "Esther's work style is mysterious and surreal. She is used to presenting in a jumping and obscure way as well as combined with delicate brush strokes in order to convey warmth and connect with viewers."
+    },
+    "data": {
+      "contentList": []
+    }
+  },
+  "shop": {
+    "title": "SHOP",
+    "path": "https://www.pinkoi.com/store/estherxiaooo"
+  }
+}
