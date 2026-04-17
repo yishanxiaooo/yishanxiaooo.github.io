@@ -156,7 +156,32 @@
       "description": "Esther's work style is mysterious and surreal. She is used to presenting in a jumping and obscure way as well as combined with delicate brush strokes in order to convey warmth and connect with viewers."
     },
     "data": {
-      "workList": []
+      "workList": [
+        {
+          "id": "bac57657-6ff9-47cb-9308-2b80f6f7d851",
+          "path": "/test",
+          "iconUrl": "/assets/image/page/b0c6a4de-f73f-4beb-b9e7-e463b2a8e127/bac57657-6ff9-47cb-9308-2b80f6f7d851/86d3ac92-39d1-4438-a289-362fe3e45389.png",
+          "date": "",
+          "meta": {
+            "cover": "",
+            "title": "test",
+            "description": ""
+          },
+          "contentList": [
+            {
+              "type": "image",
+              "imageDataList": [
+                {
+                  "url": "/assets/image/page/b0c6a4de-f73f-4beb-b9e7-e463b2a8e127/bac57657-6ff9-47cb-9308-2b80f6f7d851/content/93e5a2cb-e5c9-4a1a-b102-ac1a2e4ea4dd.png",
+                  "title": "",
+                  "subtitle": "",
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "id": "b0c6a4de-f73f-4beb-b9e7-e463b2a8e127"
   },
